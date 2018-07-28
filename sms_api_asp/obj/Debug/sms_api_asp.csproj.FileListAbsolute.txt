@@ -1,0 +1,8 @@
+I:\Projects\Sms_Phonebook\sms_api_asp\sms_api_asp\bin\sms_api_asp.dll.config
+I:\Projects\Sms_Phonebook\sms_api_asp\sms_api_asp\bin\sms_api_asp.dll
+I:\Projects\Sms_Phonebook\sms_api_asp\sms_api_asp\bin\sms_api_asp.pdb
+I:\Projects\Sms_Phonebook\sms_api_asp\sms_api_asp\obj\Debug\sms_api_asp.csprojResolveAssemblyReference.cache
+I:\Projects\Sms_Phonebook\sms_api_asp\sms_api_asp\obj\Debug\sms_api_asp.dll
+I:\Projects\Sms_Phonebook\sms_api_asp\sms_api_asp\obj\Debug\sms_api_asp.pdb
+I:\Projects\Sms_Phonebook\sms_api_asp\sms_api_asp\bin\Newtonsoft.Json.dll
+I:\Projects\Sms_Phonebook\sms_api_asp\sms_api_asp\bin\Newtonsoft.Json.xml
